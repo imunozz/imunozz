@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @imunozz
+- 👀 I’m interested in ecommerce development and support. Primary experience in @magento
+- 🌱 I’m currently learning ... other tech tools
+<!--- - 💞️ I’m looking to collaborate on ... --->
+- 📫 How to reach me ... you know the ways :)
+
 <!--
 **imunozz/imunozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
